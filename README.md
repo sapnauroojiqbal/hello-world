@@ -1,2 +1,2 @@
-This repo contains Web Development practice
+This is done by Urooj Iqbal
 
