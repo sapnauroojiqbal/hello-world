@@ -1,2 +1,2 @@
-This is done by me
+This repo contains Web Development practice
 
